@@ -1,3 +1,4 @@
+![lol](https://github-readme-stats.vercel.app/api?username=derfrisson&show_icons=true&locale=de&custom_title=Stats)
 ### Hi there 👋
 
 <!--
