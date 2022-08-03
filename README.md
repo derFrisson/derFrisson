@@ -1,3 +1,4 @@
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derFrisson&" alt="derFrisson" /></p>
 ![lol](https://github-readme-stats.vercel.app/api?username=derfrisson&show_icons=true&locale=de&custom_title=Stats)
 ### Hi there 👋
 
